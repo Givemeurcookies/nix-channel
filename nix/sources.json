@@ -17,10 +17,10 @@
         "homepage": "",
         "owner": "Givemeurcookies",
         "repo": "nixpkgs",
-        "rev": "817e20b4ba9fdd6a2ada2a3cabcd295ea187b9fd",
-        "sha256": "1picrpbvrjq8f1pq8354z8mbjabch4lg8w111xh3mi6ps9j6x404",
+        "rev": "0efc487e26298ac1085ddef7ef5ff643514faaa4",
+        "sha256": "0m461046vy6zcwgr6hwq76q9k7sdzbspp202c2mkwa0pwsrk4k0d",
         "type": "tarball",
-        "url": "https://github.com/Givemeurcookies/nixpkgs/archive/817e20b4ba9fdd6a2ada2a3cabcd295ea187b9fd.tar.gz",
+        "url": "https://github.com/Givemeurcookies/nixpkgs/archive/0efc487e26298ac1085ddef7ef5ff643514faaa4.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
