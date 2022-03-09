@@ -18,7 +18,7 @@
         "owner": "Givemeurcookies",
         "repo": "nixpkgs",
         "rev": "145c7362d17b8c9488ad5aeae2ca8368dc56eb64",
-        "sha256": "1i5h0ys12wrajqnz52i018raf5b9a0jybcdvvq6qis66yyzwlgq4",
+        "sha256": "043fcabff7c6e8880ddebbb1e525506915a7320a208af22d962a7311b407b0c4",
         "type": "tarball",
         "url": "https://github.com/Givemeurcookies/nixpkgs/archive/145c7362d17b8c9488ad5aeae2ca8368dc56eb64.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
