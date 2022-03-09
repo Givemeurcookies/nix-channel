@@ -1,16 +1,4 @@
 {
-    "nixpkgs": {
-        "branch": "master",
-        "description": "Nix Packages collection",
-        "homepage": "",
-        "owner": "Givemeurcookies",
-        "repo": "nixpkgs",
-        "rev": "47ebcd1bbe44e439e511e6389f468e9d679968f9",
-        "sha256": "0alpik41wili52sngkmqaih5fybqamihvfk7z1n49nsc15yk5lbz",
-        "type": "tarball",
-        "url": "https://github.com/Givemeurcookies/nixpkgs/archive/47ebcd1bbe44e439e511e6389f468e9d679968f9.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
     "niv": {
         "branch": "master",
         "description": "Easy dependency management for Nix projects",
@@ -21,6 +9,18 @@
         "sha256": "1ajyqr8zka1zlb25jx1v4xys3zqmdy3prbm1vxlid6ah27a8qnzh",
         "type": "tarball",
         "url": "https://github.com/nmattia/niv/archive/9cb7ef336bb71fd1ca84fc7f2dff15ef4b033f2a.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "Givemeurcookies",
+        "repo": "nixpkgs",
+        "rev": "817e20b4ba9fdd6a2ada2a3cabcd295ea187b9fd",
+        "sha256": "1picrpbvrjq8f1pq8354z8mbjabch4lg8w111xh3mi6ps9j6x404",
+        "type": "tarball",
+        "url": "https://github.com/Givemeurcookies/nixpkgs/archive/817e20b4ba9fdd6a2ada2a3cabcd295ea187b9fd.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
