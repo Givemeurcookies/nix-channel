@@ -8,7 +8,7 @@ let
           version = "3.5.14";
           src = super.fetchurl {
             url = "https://neo4j.com/artifact.php?name=neo4j-community-3.5.14-unix.tar.gz";
-            sha256 = "46ea100f162c86284c352fa56606565d6d87ffe5fc9369945914d08728eff2be";
+            sha256 = "1zjb6cgk2lpzx6pq1cs5fh65in6b5ccpl1cgfiglgpjc948mnhzv";
           };
         });
       })
